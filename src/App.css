@@ -25,3 +25,7 @@
     text-decoration: none;
 }
 
+.Pokemoncard.h1 {
+    font-size: 20px;
+}
+
