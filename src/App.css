@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'OCRAEXT';
+    src: url('/build/OCRAEXT.TTF') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.Pokedex {
+    padding-top: 4em;
+}
+
+.navbar { 
+    background-color: #ef5350 !important; 
+}
+
+.navbar-band {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+    font-size: 20px;
+}
+
+.navbar-band:hover {
+    color: rgb(255, 133, 133);
+    text-decoration: none;
+}
+
