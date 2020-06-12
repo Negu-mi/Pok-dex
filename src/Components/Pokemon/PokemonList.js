@@ -20,9 +20,9 @@ export default class PokemonList extends Component {
                     <div className="row">
                         {this.state.pokemon.map(pokemon => (
                         <PokemonCard 
-                            id = {pokemon.name}
                             name = {pokemon.name}
                             url = {pokemon.url}
+                            id = {pokemon.index}
                         /> 
                 ))}
                     </div>

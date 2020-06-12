@@ -9,6 +9,10 @@
     padding-top: 4em;
 }
 
+.card-title {
+    font-size: 20px;
+}
+
 .navbar { 
     background-color: #ef5350 !important; 
 }
@@ -23,9 +27,5 @@
 .navbar-band:hover {
     color: rgb(255, 133, 133);
     text-decoration: none;
-}
-
-.Pokemoncard.h1 {
-    font-size: 20px;
 }
 
